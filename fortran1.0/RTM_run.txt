@@ -1,0 +1,4 @@
+[1]  20561 Running                 nohup ./migration1.exe &
+[2]  20562 Running                 nohup ./migration2.exe &
+[3]- 20563 Running                 nohup ./migration3.exe &
+[4]+ 20564 Running                 nohup ./migration4.exe &
